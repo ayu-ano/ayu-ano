@@ -1,11 +1,12 @@
+[![MasterHead](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)]
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayu-ano&label=Profile%20views&color=0e75b6&style=flat" alt="ayu-ano" /> </p>
 
 - 🌱 I’m currently learning **Generative Ai,Machine Learning**
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **MERN,Mysql**
 
 - 📫 How to reach me **cse21023@iiitkalyani.ac.in**
 
